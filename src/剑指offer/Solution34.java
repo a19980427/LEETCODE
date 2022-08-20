@@ -16,21 +16,21 @@ public class Solution34 {
         // left search
         int left = i;
         int right = i;
-        while (left > 0 && nums[left] == target) {
+        while (left - 1 >= 0 && nums[left - 1] == target) {
             left--;
         }
         //right search
-        while (right < nums.length && nums[right] == target) {
+        while (right + 1< nums.length && nums[right + 1] == target) {
             right++;
         }
-        res[0] = left + 1;
-        res[1] = right - 1;
+        res[0] = left ;
+        res[1] = right;
         return res;
     }
 
 
     public static void main(String[] args) {
-        int[] ints = {5, 7, 7, 8, 8, 10};
-        new Solution34().searchRange(ints, 6);
+        int[] ints = {1,1,2};
+        new Solution34().searchRange(ints, 1);
     }
 }
