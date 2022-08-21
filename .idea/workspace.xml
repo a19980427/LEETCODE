@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="">
+    <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="34">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Solution47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Solution48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/Solution34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/java projects/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/java projects/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "shared-indexes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Solution34">
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ll" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution47">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -57,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution21" />
+    <configuration name="Solution34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution34" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution34" />
+    <configuration name="Solution47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution47" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -132,9 +139,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution47" />
         <item itemvalue="Application.Solution34" />
         <item itemvalue="Application.剑指offer.Solution79" />
-        <item itemvalue="Application.剑指offer.Solution21" />
         <item itemvalue="Application.TEST" />
         <item itemvalue="Application.ThreadForkJoin" />
       </list>
@@ -207,8 +214,17 @@
       <workItem from="1659767024910" duration="1985000" />
       <workItem from="1659921250661" duration="602000" />
       <workItem from="1660794694091" duration="4494000" />
-      <workItem from="1661009360477" duration="1766000" />
+      <workItem from="1661009360477" duration="1799000" />
+      <workItem from="1661097451876" duration="4256000" />
     </task>
+    <task id="LOCAL-00001" summary="34">
+      <created>1661011164808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661011164808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +240,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="34" />
+    <option name="LAST_COMMIT_MESSAGE" value="34" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,6 +282,11 @@
           <url>file://$PROJECT_DIR$/src/剑指offer/Solution34.java</url>
           <line>10</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Solution47.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
