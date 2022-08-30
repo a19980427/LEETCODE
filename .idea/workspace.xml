@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer56_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Solution337.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,28 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/java projects/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/java projects/leetcode/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "shared-indexes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\java projects\leetcode\src" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="ll" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer66">
+  <component name="RunManager" selected="Application.Offer45">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -67,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer66" />
+    <configuration name="Offer45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer45" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution29" />
+    <configuration name="Offer66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer66" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer45" />
         <item itemvalue="Application.Offer66" />
         <item itemvalue="Application.Solution39" />
         <item itemvalue="Application.Solution31" />
         <item itemvalue="Application.Solution73" />
-        <item itemvalue="Application.Solution29" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +234,9 @@
       <workItem from="1661311505194" duration="5487000" />
       <workItem from="1661604404216" duration="1154000" />
       <workItem from="1661611242278" duration="54000" />
-      <workItem from="1661660289099" duration="5835000" />
+      <workItem from="1661660289099" duration="6098000" />
+      <workItem from="1661739618691" duration="1994000" />
+      <workItem from="1661826019043" duration="6111000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
@@ -267,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661317705076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="balabala">
+      <created>1661683959057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661683959057</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +362,16 @@
           <url>file://$PROJECT_DIR$/src/剑指offer/Solution39.java</url>
           <line>10</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Offer45.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Offer45.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
