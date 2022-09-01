@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution946.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +61,7 @@
       <command value="ll" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer46">
+  <component name="RunManager" selected="Application.Solution1475">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -107,15 +112,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution31" />
+    <configuration name="Solution1475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1475" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1475" />
         <item itemvalue="Application.Offer46" />
         <item itemvalue="Application.Offer45" />
         <item itemvalue="Application.Offer66" />
         <item itemvalue="Application.Solution39" />
-        <item itemvalue="Application.Solution31" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +234,8 @@
       <workItem from="1661739618691" duration="1994000" />
       <workItem from="1661826019043" duration="6904000" />
       <workItem from="1661864133704" duration="4349000" />
+      <workItem from="1661916606636" duration="2898000" />
+      <workItem from="1662000049342" duration="4708000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
