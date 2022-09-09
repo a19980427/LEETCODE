@@ -20,6 +20,11 @@ public class test01 {
         Object result = method.invoke(target, args);
         System.out.println("after method " + method.getName());
         return result;
+    }
+    
 
+    public static void main(String[] args) {
+        int a = 1_1;
+        System.out.println(a);
     }
 }
