@@ -31,4 +31,43 @@ public class Solution652 {
             return sb.toString();
         }
     }
+
+    static void quickSort(int[] arr, int start, int end) {
+        if (start > end) {
+            return;
+        }
+        int base = arr[start];
+        int i = start;
+        int j = end;
+
+        while (i < j) {
+            while (i < j && arr[j] >= base) {
+                j--;
+            }
+            while (i < j && arr[i] <= base) {
+                i++;
+            }
+            if (i < j) {
+                swap(arr, i, j);
+            }
+        }
+        swap(arr, start, i);
+        quickSort(arr, start, j - 1);
+        quickSort(arr, j + 1, end);
+
+    }
+
+    static void swap(int[] arr, int l1, int l2) {
+        int temp = arr[l1];
+        arr[l1] = arr[l2];
+        arr[l2] = temp;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {2, 5, 1, 2, 34, 2, 1, 3, 4};
+        quickSort(arr, 0, arr.length - 1);
+        for (int i : arr) {
+            System.out.println(i);
+        }
+    }
 }

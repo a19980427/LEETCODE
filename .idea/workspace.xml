@@ -5,13 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/Offer28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/Offer54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/Offer55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/Offer55_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/Offer68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/IOtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TEST/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TEST/test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/classes.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/count.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/dom.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.direct.body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.direct.head" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.reverse.body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.reverse.head" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/offsets.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/remap.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/retained.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/shallow.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LRUCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution652.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution652.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +67,8 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24309815&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -65,7 +82,7 @@
       <command value="ll" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TEST.test01">
+  <component name="RunManager" selected="Application.Solution283">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -77,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CGLIB动态代理" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.CGLIB动态代理" />
+    <configuration name="IOtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.IOtest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDK动态代理" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.JDK动态代理" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,22 +120,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRUCache" />
+    <configuration name="Solution283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hot100.Solution283" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution652" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution1572" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TEST.test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.test01" />
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.TEST" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TEST.test01" />
-        <item itemvalue="Application.CGLIB动态代理" />
-        <item itemvalue="Application.JDK动态代理" />
-        <item itemvalue="Application.Solution1572" />
-        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.Solution283" />
+        <item itemvalue="Application.Solution652" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TEST" />
+        <item itemvalue="Application.IOtest" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +265,18 @@
       <workItem from="1662526271262" duration="2675000" />
       <workItem from="1662553132046" duration="5807000" />
       <workItem from="1662605827563" duration="4793000" />
-      <workItem from="1662692556584" duration="5532000" />
+      <workItem from="1662692556584" duration="10357000" />
+      <workItem from="1662735160154" duration="856000" />
+      <workItem from="1662796880758" duration="2614000" />
+      <workItem from="1662871784510" duration="1831000" />
+      <workItem from="1662980636700" duration="686000" />
+      <workItem from="1663054964840" duration="8218000" />
+      <workItem from="1663131761325" duration="790000" />
+      <workItem from="1663224881444" duration="436000" />
+      <workItem from="1663226182037" duration="4045000" />
+      <workItem from="1663230317668" duration="1018000" />
+      <workItem from="1663231355717" duration="5509000" />
+      <workItem from="1663294982178" duration="7597000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
@@ -328,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662608574308</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="balabala">
+      <created>1662700010475</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662700010475</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +481,30 @@
           <url>file://$PROJECT_DIR$/src/main/java/Solution1572.java</url>
           <line>6</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TEST/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution652.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hot100/Solution283.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/TEST/TEST.java</url>
+          <line>28</line>
+          <properties class="TEST.TEST" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
