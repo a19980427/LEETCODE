@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hot100/Solution49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/IOtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/TEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TEST/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution538.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/classes.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/count.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/dom.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.direct.body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.direct.head" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.reverse.body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/graph.reverse.head" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/offsets.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/remap.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/retained.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid6076.hprof.gs86t.b.ij/shallow.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LRUCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Solution652.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution652.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +255,7 @@
       <workItem from="1663226182037" duration="4045000" />
       <workItem from="1663230317668" duration="1018000" />
       <workItem from="1663231355717" duration="5509000" />
-      <workItem from="1663294982178" duration="7597000" />
+      <workItem from="1663294982178" duration="13561000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
@@ -369,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662700010475</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="balabala">
+      <created>1663313714859</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663313714859</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
