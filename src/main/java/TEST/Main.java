@@ -66,10 +66,37 @@ package TEST;
 
 
 public class Main {
+    static char[] x = {'a', 'b', 'c'};
+    static char[] y = {'x', 'y', 'z'};
+
     public static void main(String[] args) {
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                if ((x[i] == 'a' && y[j] == 'x') || (x[i] == 'a' && y[j] == 'y')) {
+                    continue;
+                } else if ((x[i] == 'c' && y[j] == 'x') || (x[i] == 'c' && y[j] == 'z')) {
+                    continue;
+                } else if ((x[i] == 'b' && y[j] == 'y') || (x[i] == 'b' && y[j] == 'z')) {
+                    continue;
+                } else {
+                    System.out.println(x[i] + " VS " + y[j]);
+                }
+            }
+        }
 
-        int x = 4;
-        System.out.println(9);
+    }
 
+    public boolean isPalindrome(int x) {
+        if (x < 0) {
+            return false;
+        }
+        int rem = 0, y = 0;
+        int quo = x;
+        while (quo != 0) {
+            rem = quo % 10;
+            y = y * 10 + rem;
+            quo = quo / 10;
+        }
+        return y == x;
     }
 }
