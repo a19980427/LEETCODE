@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution1117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution463.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/TEST01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/TEST01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,6 +269,7 @@
       <workItem from="1665214197487" duration="4638000" />
       <workItem from="1665286794812" duration="13954000" />
       <workItem from="1665324222942" duration="3411000" />
+      <workItem from="1665372919088" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
