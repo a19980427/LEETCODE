@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c130b1-db3e-4e0c-93ff-3cce5dae5820" name="Default Changelist" comment="balabala">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <command value="ll" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1443">
+  <component name="RunManager" selected="Application.Solution75">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -101,15 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.TEST01" />
+    <configuration name="Solution75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution75" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution75" />
         <item itemvalue="Application.Solution1443" />
         <item itemvalue="Application.Solution347" />
         <item itemvalue="Application.Solution207" />
         <item itemvalue="Application.Solution1116" />
-        <item itemvalue="Application.TEST01" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +254,8 @@
       <workItem from="1665889357436" duration="4146000" />
       <workItem from="1666411462992" duration="811000" />
       <workItem from="1666512562479" duration="999000" />
-      <workItem from="1666533489208" duration="2048000" />
+      <workItem from="1666533489208" duration="2093000" />
+      <workItem from="1666690874173" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="34">
       <created>1661011164808</created>
@@ -409,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666412258579</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="balabala">
+      <created>1666535558312</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666535558312</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,6 +558,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Solution1443.java</url>
           <line>42</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution75.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/TEST/TEST.java</url>
